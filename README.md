@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @harshaldeshmukh
 - 👀 I’m interested in ... Java,Spring Boot ,MicroServices ,ReactJS
-- 🌱 I’m currently learning ...DevOps
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... harshaldeshmukh7777@gmail.com
 
 <!---
